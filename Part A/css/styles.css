@@ -1,0 +1,158 @@
+body{
+    
+    background-color: #9df9ef;
+  }
+
+  img{
+    background-color: aliceblue;
+    border-radius: 100%;
+    size: 0.5cm;
+  }
+  
+  hr{
+    border-style: none;
+    border-top-style:dashed;
+    border-color: #25316D;
+    border-width: 5px;
+    width:30%;
+  }
+  h1{
+    text-align: center;
+    font-family: 'Arial', cursive;
+    color: #25316D;
+    font-size: 50px;
+    margin:0;
+  }
+
+  h1:hover{
+    color:#400D51;
+  }
+
+  h3{
+    text-align: center;
+    color: #25316D;
+    font-family: 'Abril Fatface', cursive;
+    font-size: 30px;
+  }
+  .desc{
+    text-align: center;
+    font-family: 'Carter One', cursive;
+    margin-top: 0;
+    font-size: 20px;
+
+  }
+  .bio{
+    font-family: 'Arial';
+    font-size: 15px;
+    font-weight: 100;
+    text-align: justify;
+    margin-right: 50px;
+    margin-left: 50px;
+    text-align: left;
+    color: #1F4690;
+  }
+
+  .linkedin-icons{
+    border-radius: 2px;
+    width: 80px;  
+    height: 70px;
+    float: left;
+    margin-left: 200px;
+  }
+
+  .github-icons{
+    border-radius: 2px;
+    width: 80px;
+    height: 70px;
+    /* text-align: right; */
+    float: right;
+    margin-right: 200px;
+  }
+
+
+  .test{
+    text-align:left;
+  }
+  
+  .Education{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    text-decoration: none;
+    text-align: justify;
+    margin-left: 50px;
+
+  }
+
+  .Academic_Projects{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    text-decoration: none;
+    text-align: justify;
+    margin-left: 50px;
+
+  }
+
+  .Awards{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    text-decoration: none;
+    text-align: justify;
+    margin-left: 50px;
+
+  }
+
+
+  form {
+    background-color: #fff;
+    max-width: 500px;
+    margin: 50px auto;
+    padding: 30px 20px;
+    box-shadow: 2px 5px 10px rgba(0, 0, 0, 0.5);
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+
+.main-table  {
+    border-collapse: collapse;
+    width: 100%;
+    border: 10px solid darkblue;
+  }
+
+.workex-table{
+  border-collapse: collapse;
+  width: 100%;
+  border: 2px solid darkblue;
+}
+  
+  th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+    text-align: center;
+  }
+  
+  /* tr:hover {background-color: #AAC4FF} */
+  .WorkExp {
+    margin-right: 60px;
+    margin-left: 60px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+ .Contact-Button{
+    height: 50px;
+    width: 200px;
+    position: relative;
+    left:650px;
+ }
+
+ button{
+  height: 50px;
+  width: 200px;
+  background-color: #9df9ef;
+}
+ .hobbies{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+ }
+  

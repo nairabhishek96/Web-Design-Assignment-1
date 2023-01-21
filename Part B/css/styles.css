@@ -1,0 +1,133 @@
+.TopContainer{
+   background-color: #0fd5eb;
+   text-align: center;
+   position: relative;  
+   border: 1px solid darkblue;
+}
+
+header{
+    /* margin-left: 10px; */
+    text-align: center;
+}
+
+#Navigation{
+    background-color: rgb(241, 200, 20);
+    padding: 20px;
+    border: 1px solid darkblue;
+}
+
+footer{
+    border: 1px solid darkblue;
+}
+
+.white-water-rafting{
+    width: 200px;
+    height: 200px;
+}
+
+.string-walking{
+    width: 200px;
+    height: 200px;
+}
+
+.sky-diving-2{
+    width: 200px;
+    height: 200px;
+}
+
+.mountaineering{
+    width: 200px;
+    height: 200px;
+}
+
+.trekking{
+    width: 200px;
+    height: 200px;
+}
+
+hr{
+    border-style: none;
+    border-top-style:dashed;
+    border-width: 2px;
+}
+
+
+h1{
+    margin: 0 auto 0 auto;
+    width: 1000px;
+    font-family: 'Arial';
+    color:black;
+    font-size: 250%;
+    text-align: center;
+}
+
+h2{
+    color:#06283D;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+
+h3{
+    color:#002B5B;
+}
+
+p{
+    line-height: 2;
+}
+
+.activity-row{
+    width:70%;
+    margin:0 auto 0 auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.activity-img{
+    width: 150px;
+    height: 150px;
+    float: left;
+    margin-right: 30px;
+}
+
+.activity-img2{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Carter One', cursive;
+    color:#40514E;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 200px;
+}
+
+.top-cloud{
+    position: relative;
+    left: 500px;
+    top: 100px;
+}
+
+.explore{
+    text-align: justify;
+   
+    
+}
+
+.himalaya{
+    height:auto;
+    width: 30%;
+}
+
+.destination-top{
+    background-color: aliceblue;
+}
+
+.destination-list{
+    text-align: left;
+}
